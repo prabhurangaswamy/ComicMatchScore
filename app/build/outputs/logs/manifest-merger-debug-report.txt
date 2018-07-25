@@ -1,0 +1,110 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Study\Andriod Training\downloaded from Github\Projects\ScoreKeeper\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from D:\Study\Andriod Training\downloaded from Github\Projects\ScoreKeeper\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from D:\Study\Andriod Training\downloaded from Github\Projects\ScoreKeeper\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from D:\Study\Andriod Training\downloaded from Github\Projects\ScoreKeeper\app\src\main\AndroidManifest.xml:2:1-20:12
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\Prabhu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.0.aar\acf6a3e2388cccd74539d7ce1ab70796\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\Prabhu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.0.aar\68bd51de69ab075a99b5cc846f7ad924\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\Prabhu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.0.aar\41946f089144d4ae8f589b1977ce650c\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-v4:24.2.0] C:\Users\Prabhu\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.0.aar\54c3ee20b4104dbdaa01a07ce0435bf5\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\Prabhu\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.0.aar\20ed5088a6dfbc17f9e40b134f69da44\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\Prabhu\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.0.aar\36764e9f32348d25a108c2ffa9b43ea3\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\Prabhu\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.0.aar\8b3a11963aabdc1480370b3a15c41f82\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\Prabhu\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.0.aar\44a509cfa7844e163af5b1ccfd25c8ef\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:24.2.0] C:\Users\Prabhu\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.0.aar\91a9217ecd5b8622c698add4245413bf\AndroidManifest.xml:17:1-27:12
+INJECTED from D:\Study\Andriod Training\downloaded from Github\Projects\ScoreKeeper\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from D:\Study\Andriod Training\downloaded from Github\Projects\ScoreKeeper\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from D:\Study\Andriod Training\downloaded from Github\Projects\ScoreKeeper\app\src\main\AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from D:\Study\Andriod Training\downloaded from Github\Projects\ScoreKeeper\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from D:\Study\Andriod Training\downloaded from Github\Projects\ScoreKeeper\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Study\Andriod Training\downloaded from Github\Projects\ScoreKeeper\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Study\Andriod Training\downloaded from Github\Projects\ScoreKeeper\app\src\main\AndroidManifest.xml
+		ADDED from D:\Study\Andriod Training\downloaded from Github\Projects\ScoreKeeper\app\src\main\AndroidManifest.xml:2:1-20:12
+		INJECTED from D:\Study\Andriod Training\downloaded from Github\Projects\ScoreKeeper\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Study\Andriod Training\downloaded from Github\Projects\ScoreKeeper\app\src\main\AndroidManifest.xml
+		ADDED from D:\Study\Andriod Training\downloaded from Github\Projects\ScoreKeeper\app\src\main\AndroidManifest.xml:2:1-20:12
+		INJECTED from D:\Study\Andriod Training\downloaded from Github\Projects\ScoreKeeper\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Study\Andriod Training\downloaded from Github\Projects\ScoreKeeper\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\Study\Andriod Training\downloaded from Github\Projects\ScoreKeeper\app\src\main\AndroidManifest.xml:5:5-18:19
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\Prabhu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.0.aar\acf6a3e2388cccd74539d7ce1ab70796\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\Prabhu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.0.aar\acf6a3e2388cccd74539d7ce1ab70796\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\Prabhu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.0.aar\68bd51de69ab075a99b5cc846f7ad924\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\Prabhu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.0.aar\68bd51de69ab075a99b5cc846f7ad924\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\Prabhu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.0.aar\41946f089144d4ae8f589b1977ce650c\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\Prabhu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.0.aar\41946f089144d4ae8f589b1977ce650c\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.2.0] C:\Users\Prabhu\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.0.aar\54c3ee20b4104dbdaa01a07ce0435bf5\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.0] C:\Users\Prabhu\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.0.aar\54c3ee20b4104dbdaa01a07ce0435bf5\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\Prabhu\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.0.aar\20ed5088a6dfbc17f9e40b134f69da44\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\Prabhu\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.0.aar\20ed5088a6dfbc17f9e40b134f69da44\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\Prabhu\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.0.aar\36764e9f32348d25a108c2ffa9b43ea3\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\Prabhu\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.0.aar\36764e9f32348d25a108c2ffa9b43ea3\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\Prabhu\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.0.aar\8b3a11963aabdc1480370b3a15c41f82\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\Prabhu\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.0.aar\8b3a11963aabdc1480370b3a15c41f82\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\Prabhu\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.0.aar\44a509cfa7844e163af5b1ccfd25c8ef\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\Prabhu\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.0.aar\44a509cfa7844e163af5b1ccfd25c8ef\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] C:\Users\Prabhu\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.0.aar\91a9217ecd5b8622c698add4245413bf\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] C:\Users\Prabhu\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.0.aar\91a9217ecd5b8622c698add4245413bf\AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from D:\Study\Andriod Training\downloaded from Github\Projects\ScoreKeeper\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from D:\Study\Andriod Training\downloaded from Github\Projects\ScoreKeeper\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from D:\Study\Andriod Training\downloaded from Github\Projects\ScoreKeeper\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\Study\Andriod Training\downloaded from Github\Projects\ScoreKeeper\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\Study\Andriod Training\downloaded from Github\Projects\ScoreKeeper\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.example.android.courtcounter.MainActivity
+ADDED from D:\Study\Andriod Training\downloaded from Github\Projects\ScoreKeeper\app\src\main\AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from D:\Study\Andriod Training\downloaded from Github\Projects\ScoreKeeper\app\src\main\AndroidManifest.xml:11:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Study\Andriod Training\downloaded from Github\Projects\ScoreKeeper\app\src\main\AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from D:\Study\Andriod Training\downloaded from Github\Projects\ScoreKeeper\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from D:\Study\Andriod Training\downloaded from Github\Projects\ScoreKeeper\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Study\Andriod Training\downloaded from Github\Projects\ScoreKeeper\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from D:\Study\Andriod Training\downloaded from Github\Projects\ScoreKeeper\app\src\main\AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from D:\Study\Andriod Training\downloaded from Github\Projects\ScoreKeeper\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Study\Andriod Training\downloaded from Github\Projects\ScoreKeeper\app\src\main\AndroidManifest.xml
+INJECTED from D:\Study\Andriod Training\downloaded from Github\Projects\ScoreKeeper\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\Prabhu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.0.aar\acf6a3e2388cccd74539d7ce1ab70796\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\Prabhu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.0.aar\acf6a3e2388cccd74539d7ce1ab70796\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\Prabhu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.0.aar\68bd51de69ab075a99b5cc846f7ad924\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\Prabhu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.0.aar\68bd51de69ab075a99b5cc846f7ad924\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\Prabhu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.0.aar\41946f089144d4ae8f589b1977ce650c\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\Prabhu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.0.aar\41946f089144d4ae8f589b1977ce650c\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.2.0] C:\Users\Prabhu\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.0.aar\54c3ee20b4104dbdaa01a07ce0435bf5\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.0] C:\Users\Prabhu\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.0.aar\54c3ee20b4104dbdaa01a07ce0435bf5\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\Prabhu\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.0.aar\20ed5088a6dfbc17f9e40b134f69da44\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\Prabhu\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.0.aar\20ed5088a6dfbc17f9e40b134f69da44\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\Prabhu\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.0.aar\36764e9f32348d25a108c2ffa9b43ea3\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\Prabhu\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.0.aar\36764e9f32348d25a108c2ffa9b43ea3\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\Prabhu\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.0.aar\8b3a11963aabdc1480370b3a15c41f82\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\Prabhu\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.0.aar\8b3a11963aabdc1480370b3a15c41f82\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\Prabhu\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.0.aar\44a509cfa7844e163af5b1ccfd25c8ef\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\Prabhu\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.0.aar\44a509cfa7844e163af5b1ccfd25c8ef\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.0] C:\Users\Prabhu\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.0.aar\91a9217ecd5b8622c698add4245413bf\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.0] C:\Users\Prabhu\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.0.aar\91a9217ecd5b8622c698add4245413bf\AndroidManifest.xml:21:5-23:58
+INJECTED from D:\Study\Andriod Training\downloaded from Github\Projects\ScoreKeeper\app\src\main\AndroidManifest.xml
+INJECTED from D:\Study\Andriod Training\downloaded from Github\Projects\ScoreKeeper\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.0] C:\Users\Prabhu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.0.aar\acf6a3e2388cccd74539d7ce1ab70796\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\Study\Andriod Training\downloaded from Github\Projects\ScoreKeeper\app\src\main\AndroidManifest.xml
+		ADDED from D:\Study\Andriod Training\downloaded from Github\Projects\ScoreKeeper\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Study\Andriod Training\downloaded from Github\Projects\ScoreKeeper\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Study\Andriod Training\downloaded from Github\Projects\ScoreKeeper\app\src\main\AndroidManifest.xml
+		ADDED from D:\Study\Andriod Training\downloaded from Github\Projects\ScoreKeeper\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Study\Andriod Training\downloaded from Github\Projects\ScoreKeeper\app\src\main\AndroidManifest.xml
